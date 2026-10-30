@@ -1,4 +1,4 @@
-# [Nhat Minh Nguyen]
+# Nhat Minh Nguyen
 
 ### AI engineer | Full stack application
 
